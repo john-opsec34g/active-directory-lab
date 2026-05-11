@@ -15,6 +15,7 @@ This lab mirrors how modern organisations operate — combining
 on-premise Active Directory with cloud-based security
 monitoring through Azure.
 
+## Lab Architecture
 ┌─────────────────────────────────────────────────────┐
 │                    CLOUD (AZURE)                     │
 │                                                      │
